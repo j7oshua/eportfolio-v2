@@ -1,7 +1,6 @@
 import { FaHome, FaGithub } from 'react-icons/fa';
 
 const Project = ({project}) => {
-    console.log(project);
     const {name, description, sourceCodeExists, sourceCodeURL, image, websitePublic, webURL} = project;
     
     return (
