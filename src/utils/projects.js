@@ -12,7 +12,8 @@ const projects = [
         sourceCodeExists: true,
         sourceCodeURL: 'https://github.com/j7oshua/sasktel-mobility-city-app',
         websitePublic: false,
-        webURL: ''
+        webURL: '',
+        client: 'City of Prince Albert'
     },
     {
         id: 2,
@@ -22,7 +23,8 @@ const projects = [
         sourceCodeExists: false,
         sourceCodeURL: '',
         websitePublic: true,
-        webURL: 'https://www.joshuagrimard.com'
+        webURL: 'https://www.joshuagrimard.com',
+        client: 'Personal Project'
     },
     {
         id: 3,
@@ -32,7 +34,8 @@ const projects = [
         sourceCodeExists: false,
         sourceCodeURL: '',
         websitePublic: false,
-        webURL: ''
+        webURL: '',
+        client: 'Restorative Action Program'
     },
     {
         id: 4,
@@ -42,7 +45,8 @@ const projects = [
         sourceCodeExists: false,
         sourceCodeURL: '',
         websitePublic: false,
-        webURL: ''
+        webURL: '',
+        client: 'Mining'
     }
 ]
 
