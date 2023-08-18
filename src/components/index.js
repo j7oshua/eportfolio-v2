@@ -6,5 +6,6 @@ import Services from './Services';
 import Projects from './Projects';
 import Footer from './Footer';
 import SectionTitle from './SectionTitle';
+import Project from './Project';
 
-export { Navbar, SmallNavbar, HeroBanner, About, Services, Projects, Footer, SectionTitle };
+export { Navbar, SmallNavbar, HeroBanner, About, Services, Projects, Footer, SectionTitle, Project };

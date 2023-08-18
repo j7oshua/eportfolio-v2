@@ -21,10 +21,16 @@ export const Wrapper = styled.main`
     .project-container img {
         border-top-left-radius: var(--radius);
         border-top-right-radius: var(--radius);
+        max-height: 195px;
+        object-fit: cover;
     }
 
     .project-container {
         position: relative;
+    }
+
+    .project-details h4 {
+        padding-top: 0.25rem;
     }
 
     .project-icon {
@@ -46,6 +52,10 @@ export const Wrapper = styled.main`
     .project-details {
         padding: 2rem 1.5rem;
     }
+
+    /* .project-details p {
+        overflow-wrap: anywhere;
+    } */
 
     .project-footer {
         display: grid;
