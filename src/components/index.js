@@ -7,5 +7,17 @@ import Projects from './Projects';
 import Footer from './Footer';
 import SectionTitle from './SectionTitle';
 import Project from './Project';
+import ProjectLink from './ProjectLink';
 
-export { Navbar, SmallNavbar, HeroBanner, About, Services, Projects, Footer, SectionTitle, Project };
+export { 
+    Navbar, 
+    SmallNavbar, 
+    HeroBanner, 
+    About, 
+    Services, 
+    Projects, 
+    Footer, 
+    SectionTitle, 
+    Project,
+    ProjectLink
+};
