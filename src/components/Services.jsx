@@ -12,9 +12,9 @@ const Services = () => {
                 <h4>full-stack development</h4>
                 <div className='underline'></div>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Modi doloribus similique consectetur facilis, mollitia expedita 
-                    nam laboriosam perferendis delectus repellendus.
+                    I have worked on multiple professional projects doing front-end,
+                    back-end work and strongly skilled in the latest technolgies. I can
+                     create the application that you always dreamed of!
                 </p>
             </article>
             <article className='service'>
@@ -22,9 +22,8 @@ const Services = () => {
                 <h4>cloud technology</h4>
                 <div className='underline'></div>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Modi doloribus similique consectetur facilis, mollitia expedita 
-                    nam laboriosam perferendis delectus repellendus.
+                    Certifed in Amazon Web Services as a Foundational Cloud Practitioner. I can help 
+                    to move your business into the cloud.
                 </p>
             </article>
             <article className='service'>
@@ -32,9 +31,9 @@ const Services = () => {
                 <h4>machine learning</h4>
                 <div className='underline'></div>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Modi doloribus similique consectetur facilis, mollitia expedita 
-                    nam laboriosam perferendis delectus repellendus.
+                    Experienced in working with Machine Learning (ML) models for business clients.
+                    If you are needing a ML model for your business, gladly reach out and I can offer
+                    some of my advice.
                 </p>
             </article>
         </div>

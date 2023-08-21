@@ -25,17 +25,17 @@ const SmallNavbar = ({toggleSidebar}) => {
             </ul>
             <ul className="social-icons">
                 <li>
-                    <a href='http://www.twitter.com' className='social-icon'>
+                    <a href='https://www.instagram.com/j7oshua' className='social-icon'>
                         <FaInstagram />
                     </a>
                 </li>
                 <li>
-                    <a href='http://www.twitter.com' className='social-icon'>
+                    <a href='https://ca.linkedin.com/in/joshuagrimard' className='social-icon'>
                         <FaLinkedin />
                     </a>
                 </li>
                 <li>
-                    <a href='http://www.twitter.com' className='social-icon'>
+                    <a href='https://github.com/j7oshua' className='social-icon'>
                         <FaGithub />
                     </a>
                 </li>

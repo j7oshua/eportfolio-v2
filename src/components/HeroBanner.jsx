@@ -14,17 +14,17 @@ const HeroBanner = () => {
               <Link to='contact' className='btn hero-btn'>Get In Touch</Link>
               <ul className="social-icons hero-icons">
                 <li>
-                    <a href='http://www.twitter.com' className='hero-icon'>
+                    <a href='https://www.instagram.com/j7oshua' className='hero-icon'>
                         <FaInstagram />
                     </a>
                 </li>
                 <li>
-                    <a href='http://www.twitter.com' className='hero-icon'>
+                    <a href='https://ca.linkedin.com/in/joshuagrimard' className='hero-icon'>
                         <FaLinkedin />
                     </a>
                 </li>
                 <li>
-                    <a href='http://www.twitter.com' className='hero-icon'>
+                    <a href='https://github.com/j7oshua' className='hero-icon'>
                         <FaGithub />
                     </a>
                 </li>
