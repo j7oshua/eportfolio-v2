@@ -50,19 +50,19 @@ const projects = [
         sourceCodeURL: '',
         websitePublic: false,
         webURL: '',
-        client: 'Restorative Action Program'
+        client: 'Restorative Action Program - Saskatoon'
     },
     {
         id: 5,
         cName: 'project-4',
-        name: 'CI-SKOR Risk Application',
+        name: 'CI-RiskDB Application',
         image: project4,
-        description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Df sdf asdfas dfsd sdff sdf sdffss lskdw qoe poejasd ejfjs wejfjsd vkasdj",
+        description: "Software that performs semi-quantitative risk evaluations for multiple types of critical infrastructure, including: Tailing Storage Facilities and Rock Storage Facilities.",
         sourceCodeExists: false,
         sourceCodeURL: '',
-        websitePublic: false,
-        webURL: '',
-        client: 'Mining'
+        websitePublic: true,
+        webURL: 'https://www.envirointegration.com/software',
+        client: 'Enviro Integration'
     }
 ]
 

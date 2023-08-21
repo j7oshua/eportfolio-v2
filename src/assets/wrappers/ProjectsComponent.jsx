@@ -97,10 +97,15 @@ export const Wrapper = styled.section`
             height: 100%;
         }
 
-    
         .project-1 {
             grid-area: a;
         }
+
+        .project-1  .project-img {
+            object-position: 3% 0%;
+            object-fit: cover;
+        }
+
         .project-2 {
             grid-area: b;
         }
