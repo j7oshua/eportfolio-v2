@@ -85,7 +85,7 @@ export const Wrapper = styled.section`
             grid-template-rows: 200px 200px;
             gap: 1rem;
             grid-template-areas: 
-            "a b b"
+            "a e b"
             "a c d";
         }
 
@@ -109,6 +109,9 @@ export const Wrapper = styled.section`
         }
         .project-4 {
             grid-area: d;
+        }
+        .project-5 {
+            grid-area: e;
         }
 
     }

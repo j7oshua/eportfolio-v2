@@ -9,7 +9,7 @@ const projects = [
         cName: 'project-1',
         name: 'Sasktel Invoice Management',
         image: project1,
-        description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Df sdf asdfas dfsd sdff sdf sdffss lskdw qoe poejasd ejfjs wejfjsd vkasdj",
+        description: "Built using React, Express JS, Node JS, and Microsoft SQL Server. The app was designed for CSV's from Sasktel to be uploaded and mapped to departments. Keeps track of the total's for each department.",
         sourceCodeExists: true,
         sourceCodeURL: 'https://github.com/j7oshua/sasktel-mobility-city-app',
         websitePublic: false,
@@ -18,18 +18,30 @@ const projects = [
     },
     {
         id: 2,
+        cName: 'project-5',
+        name: 'AI Image Generation App',
+        image: project4,
+        description: "Built using the MERN stack, this AI Image Generation App allows the community to create and share images that are built using prompts.",
+        sourceCodeExists: true,
+        sourceCodeURL: 'https://github.com/j7oshua/AI-Image-Generation-App',
+        websitePublic: false,
+        webURL: '',
+        client: 'Personal Project'
+    },
+    {
+        id: 3,
         cName: 'project-2',
         name: 'E-Portfolio',
         image: project2,
-        description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Df sdf asdfas dfsd sdff sdf sdffss lskdw qoe poejasd ejfjs wejfjsd vkasdj",
-        sourceCodeExists: false,
-        sourceCodeURL: '',
+        description: "My current E-Portfolio. Built on React, the website displays my recent projects and services.",
+        sourceCodeExists: true,
+        sourceCodeURL: 'https://github.com/j7oshua/eportfolio-v2',
         websitePublic: true,
         webURL: 'https://www.joshuagrimard.com',
         client: 'Personal Project'
     },
     {
-        id: 3,
+        id: 4,
         cName: 'project-3',
         name: 'Restorative Action Program',
         image: project3,
@@ -41,7 +53,7 @@ const projects = [
         client: 'Restorative Action Program'
     },
     {
-        id: 4,
+        id: 5,
         cName: 'project-4',
         name: 'CI-SKOR Risk Application',
         image: project4,
