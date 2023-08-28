@@ -2,6 +2,7 @@ import project1 from '../assets/images/project-1.jpeg';
 import project2 from '../assets/images/project-2.jpeg';
 import project3 from '../assets/images/project-3.jpeg';
 import project4 from '../assets/images/project-4.jpeg';
+import project5 from '../assets/images/project-5.jpeg';
 
 const projects = [
     {
@@ -20,7 +21,7 @@ const projects = [
         id: 2,
         cName: 'project-5',
         name: 'AI Image Generation App',
-        image: project4,
+        image: project5,
         description: "Built using the MERN stack, this AI Image Generation App allows the community to create and share images that are built using prompts.",
         sourceCodeExists: true,
         sourceCodeURL: 'https://github.com/j7oshua/AI-Image-Generation-App',
