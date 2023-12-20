@@ -46,7 +46,7 @@ const projects = [
         cName: 'project-3',
         name: 'Restorative Action Program',
         image: project3,
-        description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Df sdf asdfas dfsd sdff sdf sdffss lskdw qoe poejasd ejfjs wejfjsd vkasdj",
+        description: "Application used by facilitators for keeping track of their meetings with students in Saskatoon high schools.",
         sourceCodeExists: false,
         sourceCodeURL: '',
         websitePublic: false,
